@@ -1,3 +1,5 @@
+Matthias Rubin
+
 # Exercise 2: Publishing Jupyter Notebooks with Quarto 📔
 
 **Objective**: Explore the power of Quarto and GitHub to seamlessly publish Jupyter notebooks. By the end of this exercise, you will have your own live, web-accessible Jupyter notebook and experience in managing and updating its content.
