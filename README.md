@@ -1,4 +1,4 @@
-Matthias Rubin
+Matthias Rubin blablabla
 
 # Exercise 2: Publishing Jupyter Notebooks with Quarto 📔
 
