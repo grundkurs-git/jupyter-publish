@@ -2,3 +2,4 @@ numpy
 matplotlib
 jupyterlite-core
 jupyterlite-pyodide-kernel
+jupyterlab-filesystem-access
