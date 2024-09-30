@@ -11,24 +11,17 @@
    - Navigate to your forked repository.
    - Click on the green "Code" button and from the dropdown, select "Codespaces" and click on “Create codespace on main”.
 
-3. **Publish with Quarto**:
-   - Within your Codespace terminal, enter the command:
-     ```
-     quarto publish gh-pages
-     ```
-   - This command instructs Quarto to compile and publish your notebook content to the `gh-pages` branch, which GitHub automatically uses to host web-accessible content.
-
-5. **Modify the Jupyter Notebook**:
+3. **Modify the Jupyter Notebook**:
    - In your Codespace, locate the `hello.ipynb` Jupyter notebook and open it.
    - Make some changes or additions to the notebook content. Feel free to get creative!
    - Save your changes once done.
 
-6. **Commit & Push**:
+4. **Commit & Push**:
    - In the source control panel of Codespaces (typically an icon that looks like a branching tree), stage your changes and commit them with a descriptive message.
    - Push your committed changes to your GitHub repository.
 
-7. **Review Your Live Notebook**:
-   - Once the changes are pushed, navigate to the URL associated with the `gh-pages` of your forked repository (typically in the format `https://[your-username].github.io/[repository-name]/`). You should see the updated Jupyter notebook content live!
+5. **Review Your Live Notebook**:
+   - Once the changes are pushed, navigate to the URL associated with the `gh-pages` of your forked repository (typically in the format `https://[your-username].github.io/[repository-name]/lab`). You should see the updated Jupyter notebook content live!
 
 ### Reflection:
 
@@ -36,3 +29,6 @@
 2. Discuss the significance of the `gh-pages` branch in the context of GitHub.
 
 Great work! 🌟 Leveraging Quarto and GitHub functionalities, you've just broadened your toolkit for publishing interactive content online. Dive deeper, and explore more possibilities!
+
+# TODO:
+- streamline filesystem access / access to notebooks stored online
